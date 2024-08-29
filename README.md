@@ -1,6 +1,4 @@
-# Hello Word!
+# Hello World!
  Primeiro Repositório
 
-Repositório de teste.
-
-Edição dentro do site.
+Curso GitHub
